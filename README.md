@@ -4,7 +4,7 @@
 
   check absence of ActivitiesCache with WindowsKey+R 
 
-  "%LocalAppData%\ConnectedDevicesPlatform"
+  ``%LocalAppData%\ConnectedDevicesPlatform``
  
   with the absence of deleted directory after restart
   
@@ -12,4 +12,4 @@
   
   additional remove widget package with admin-powershell
   
-  "Get-AppxPackage *WebExperience* | Remove-AppxPackage"
+  ``Get-AppxPackage *WebExperience* | Remove-AppxPackage``
