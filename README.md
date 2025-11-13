@@ -1,12 +1,11 @@
-# Windows11
-# ActivityCache
-# widgets
-Disable ActivityCache and widgets completely tested on Microsoft Windows 11 Home version 25H2 10.0.26200.7171
+# disable ActivityCache and widgets on Windows11
+
+##Disable ActivityCache and widgets completely tested on Microsoft Windows 11 Home version 25H2 10.0.26200.7171
 
 
   check absence of ActivitiesCache with WindowsKey+R 
 
-  -> %LocalAppData%\ConnectedDevicesPlatform
+  ´%LocalAppData%\ConnectedDevicesPlatform´
  
   with the absence of deleted directory after restart
   
@@ -14,4 +13,4 @@ Disable ActivityCache and widgets completely tested on Microsoft Windows 11 Home
   
   additional remove widget package with admin-powershell
   
-  -> Get-AppxPackage *WebExperience* | Remove-AppxPackage
+  ´Get-AppxPackage *WebExperience* | Remove-AppxPackage´
