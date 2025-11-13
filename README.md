@@ -1,2 +1,3 @@
 # ActivityCache
-Disable ActivityCache on Microsoft Windows 11 Home version 10.0.26200 Build 26200
+# widgets
+Disable ActivityCache and widgets completely on Microsoft Windows 11 Home version 25H2 10.0.26200.7171
