@@ -6,6 +6,7 @@ Disable ActivityCache and widgets completely tested on Microsoft Windows 11 Home
   check absence of ActivitiesCache with WindowsKey+R 
 
   -> %LocalAppData%\ConnectedDevicesPlatform
+ 
   with the absence of deleted directory after restart
   
   check absence of widgets with no widgets appearing in the taskmanager
