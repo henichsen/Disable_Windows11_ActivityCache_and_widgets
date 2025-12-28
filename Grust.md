@@ -20,3 +20,5 @@ Aufgabenplanung erledigt:
 Windows machine->Energieverwaltung->
 • Performance bei Netzbetrieb
 • Energiesparen bei Akkubetrieb
+
+Test Test Test
